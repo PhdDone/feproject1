@@ -5,7 +5,7 @@ body {
 }
 
 .text-muted {
-    color: #BCBBBB;
+    color: #bcbbbb;
 }
 
 .text-thin {
@@ -31,5 +31,11 @@ h3 {
 
 hr {
     height: 5px;
-    background-color: #BCBBBB;
+    background-color: #bcbbbb;
+}
+
+.text-link {
+    font-size: 18px;
+    font-weight: 100;
+    color: rgb(103, 104, 88);
 }
