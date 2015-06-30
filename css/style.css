@@ -39,3 +39,14 @@ hr {
     font-weight: 100;
     color: rgb(103, 104, 88);
 }
+
+@media screen and (max-width: 991px) {
+    .title {
+	text-align: center;
+	width: 100%;
+    }
+    img {
+	position: relative;
+	margin: auto;
+    }
+}
